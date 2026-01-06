@@ -1,10 +1,10 @@
-# Python-projects
+# Python Projects
 This repository contains a collection of Python programs developed as part of my self-learning and academic practice in computer science.
 The projects demonstrate my understanding of core programming concepts, problem-solving, and algorithmic thinking, with a focus on writing correct and readable Python code.
 
 These scripts were written independently to practice logic, control flow, and basic algorithm design.
 
-# Purpose of This Repository
+**Purpose of This Repository**
 
 The goal of this repository is to:
 
