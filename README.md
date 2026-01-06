@@ -4,7 +4,7 @@ The projects demonstrate my understanding of core programming concepts, problem-
 
 These scripts were written independently to practice logic, control flow, and basic algorithm design.
 
-**Purpose of This Repository**
+# Purpose of This Repository
 
 The goal of this repository is to:
 
@@ -52,6 +52,6 @@ Later repositories contain more advanced topics (e.g., algorithms, AI, and data 
 
 # Author
 
-Mohammad Amin Bagherzadeh
+**Mohammad Amin Bagherzadeh**
 Computer Science student
 Interested in Artificial Intelligence, Data Science, and Software Development
